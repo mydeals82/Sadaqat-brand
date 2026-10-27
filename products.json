@@ -1,0 +1,5 @@
+[
+  {"id":1,"name":"Classic Gold","price":2499,"description":"Black-and-gold style for smart occasions.","image":"/images/watch-placeholder.svg"},
+  {"id":2,"name":"Midnight Silver","price":2999,"description":"Clean details and a modern daily finish.","image":"/images/watch-placeholder.svg"},
+  {"id":3,"name":"Heritage Brown","price":3499,"description":"Warm tones and a classic look.","image":"/images/watch-placeholder.svg"}
+]
